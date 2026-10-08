@@ -1,0 +1,12 @@
+.venv/
+.tools/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+*.db
+*.db-wal
+*.db-shm
+node_modules/
+dist/
+.DS_Store
